@@ -1,0 +1,5 @@
+No utilicé Maps.v, en su lugar, para modelar funciones parciales A |-> B, utilicé A -> option B.
+
+El ejercicio 1 está resuelto en el archivo State.v.
+Los ejercicios 2 y 3 en Action.v.
+4, 5 y 6 en ValidState.v, y el 7 en Isolation.v.
